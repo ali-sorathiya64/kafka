@@ -17,6 +17,6 @@ no
 
 offset is not the event ID, but its actually the msg position inside. partition
 
-noti- offset 25
-ana - offset 12
+notification- offset 25
+analytics - offset 12
 inventory - offset 30

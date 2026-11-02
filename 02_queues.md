@@ -2,7 +2,7 @@ queue - buffer between services
 
 order service - publish a message to a queue
 
-order service does not wait for the noti service to finish sending the email
+order service does not wait for the notification service to finish sending the email
 
 once the order is placed
 
@@ -16,7 +16,7 @@ once the order is placed
 ```
 
 order service puts this msg into the queue
-noti service consume it and send the email
+notification service consume it and send the email
 
 system is less tightly coupled
 
