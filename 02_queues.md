@@ -24,7 +24,7 @@ OS - NQ - NS
 OS - AQ - AS
 OS - IQ - IS
 
-msgs usually removed after processing
+messages usually removed after processing
 
 consumed is already consumed -> removed from the queue
 backgrounds jobs
